@@ -1,5 +1,8 @@
 # AI-powered-recruitment-management-system
-This is an AI based recruitment system demo. It can be used by HRs to manage job descriptions, openings, and candidates. It also has features like AI-based JD Generation with AI, interview tools, and admin controls. Development still in progress. Source code is not available here as it belongs to the company.
+This is an AI based recruitment system demo. It can be used by HRs to manage job descriptions, openings, and candidates. It also has features like AI-based JD Generation with AI, interview tools, and admin controls. Development still in progress. Source code is not available here as it belongs to the company. Technologies used:
+1. React for froentend
+2. FastAPI + Python for backend
+3. PostgreSQL for database
 
 ### Home page:
 <img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/43f9d5cd-0ab5-429a-ae54-616cb551c570" />
@@ -18,9 +21,3 @@ This is an AI based recruitment system demo. It can be used by HRs to manage job
 
 ### Interview tools page:
 <img width="1366" height="606" alt="image" src="https://github.com/user-attachments/assets/58c35293-7960-4592-a01d-46b7c68adce7" />
-
-
-
-
-
-
