@@ -10,6 +10,9 @@ This is an AI based recruitment system demo. It can be used by HRs to manage job
 ### JD Generator:
 <img width="1366" height="609" alt="image" src="https://github.com/user-attachments/assets/1a299d6e-0e78-46fb-b30d-45519a34b61d" />
 
+### Generated JD:
+<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/0a77608d-d758-4348-8428-e1228148c249" />
+
 ### Job Openings table:
 <img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/b5bb9b6a-39b5-4ad1-9cc3-40c49ffed77b" />
 
